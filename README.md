@@ -33,6 +33,6 @@ Database: PostgreSQL (default), SQLite (dev)
 
 Authentication: JWT (djangorestframework-simplejwt)
 
-Deployment: Docker, Nginx, Gunicorn
+Deployment: Docker, Nginx, Gunicorn!
 
 Version Control: Git & GitHub!
